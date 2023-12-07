@@ -1,7 +1,7 @@
 {
     "id": "cloudsland",
     "name": "CloudsLand Network",
-    "description": "Server KitPvP e SkyBlock Italiano",
+    "description": "Italian KitPvP and FireWars Server.",
     "addresses": [
         "cloudsland.eu"
     ],
@@ -25,12 +25,7 @@
     ],
     "primaryRegion": "EU",
     "regions": [
-        "AF",
-        "NA",
         "EU",
-        "OC",
-        "AS",
-        "SA"
     ],
     "gameTypes": [
         "PvP"
